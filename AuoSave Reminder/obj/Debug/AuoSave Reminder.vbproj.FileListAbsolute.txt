@@ -1,0 +1,22 @@
+c:\users\wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\bin\Debug\AuoSave Reminder.exe.config
+c:\users\wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\bin\Debug\AuoSave Reminder.exe
+c:\users\wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\bin\Debug\AuoSave Reminder.pdb
+c:\users\wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\bin\Debug\AuoSave Reminder.xml
+c:\users\wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave Reminder.vbprojResolveAssemblyReference.cache
+c:\users\wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave_Reminder.Resources.resources
+c:\users\wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave Reminder.vbproj.GenerateResource.Cache
+c:\users\wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave Reminder.exe
+c:\users\wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave Reminder.xml
+c:\users\wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave Reminder.pdb
+c:\users\wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave_Reminder.Main.resources
+C:\Users\Wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave_Reminder.NewItem.resources
+C:\Users\Wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave_Reminder.Edit.resources
+C:\Users\Wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\bin\Debug\AuoSave Reminder.exe.manifest
+C:\Users\Wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\bin\Debug\AuoSave Reminder.application
+C:\Users\Wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave Reminder.TrustInfo.xml
+C:\Users\Wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave Reminder.exe.manifest
+C:\Users\Wooglie\documents\visual studio 2015\Projects\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave Reminder.application
+D:\CloudGljiva\AuoSave Reminder\AuoSave Reminder\bin\Debug\AuoSave Reminder.exe.config
+D:\CloudGljiva\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave Reminder.exe
+D:\CloudGljiva\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave Reminder.xml
+D:\CloudGljiva\AuoSave Reminder\AuoSave Reminder\obj\Debug\AuoSave Reminder.pdb

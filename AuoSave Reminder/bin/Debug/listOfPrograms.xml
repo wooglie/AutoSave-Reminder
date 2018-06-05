@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+  <Programs>
+    <Name>Maroon 5 - One More Night (Lyrics) - YouTube - Google Chrome</Name>
+    <Process>chrome</Process>
+    <RemindEvery>0:01:00</RemindEvery>
+    <Message>rčgoitrpooirgwrh</Message>
+    <Activated>True</Activated>
+    <RemindetAt>17.12.2015. 16:12:01</RemindetAt>
+  </Programs>
+  <Programs>
+    <Name>AuoSave Reminder (Running) - Microsoft Visual Studio</Name>
+    <Process>devenv</Process>
+    <RemindEvery>0:15:00</RemindEvery>
+    <Message>Sejvaj to što radiš !</Message>
+    <Activated>True</Activated>
+    <RemindetAt>17.12.2015. 16:12:01</RemindetAt>
+  </Programs>
+  <Programs>
+    <Name>Fotografije</Name>
+    <Process>Microsoft.Photos</Process>
+    <RemindEvery>0:01:00</RemindEvery>
+    <Message>Sejvaj to što radiš !</Message>
+    <Activated>True</Activated>
+    <RemindetAt>17.12.2015. 16:12:01</RemindetAt>
+  </Programs>
+  <Programs>
+    <Name>Ulazna pošta – Outlook ‎- Pošta</Name>
+    <Process>ApplicationFrameHost</Process>
+    <RemindEvery>0:15:00</RemindEvery>
+    <Message>Sejvaj to što radiš !</Message>
+    <Activated>True</Activated>
+    <RemindetAt>17.12.2015. 16:06:40</RemindetAt>
+  </Programs>
+</NewDataSet>
